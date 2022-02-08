@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+body{
+
+    background: url("global/thai_ingrediences.jpg");
+}
+
+
+h1{
+    font-family: 'DM Serif Display', serif;
+}
+
+nav{
+    background: url("global/thai_ingrediences.jpg");
+}
